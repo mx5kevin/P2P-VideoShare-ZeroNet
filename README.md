@@ -7,6 +7,8 @@ A decentralized peer-to-peer video sharing platform built for the ZeroNet networ
 - Decentralized hosting
 - No central server
 
+Kopy Kate Big is the final bug-fixed release of Ngnoid.tv, which was originally developed by its creator and later improved by 0Net DWF. It is the last version that includes the most important bug fixes.
+
 ## Donations / Payment Addresses
 
 **EPIX:**  
