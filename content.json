@@ -1,0 +1,245 @@
+{
+ "address": "17Ayo82FwgH2cL7HuFKNT8tdFfBSVLbPVR",
+ "address_index": 76877708,
+ "background-color": "#F5F5F5",
+ "clone_root": "17Ayo82FwgH2cL7HuFKNT8tdFfBSVLbPVR",
+ "cloneable": true,
+ "description": "Decentralized video sharing site for engineers and programmers. CopyLeft, Anti-Capitalist, Free speech.",
+ "favicon": "cat-32.ico",
+ "files": {
+  "cat-32.ico": {
+   "sha512": "142379711786477c69ac7074436ceb1802e5a987f7a1f04765336b875cbeb3d9",
+   "size": 4286
+  },
+  "css/all.css": {
+   "sha512": "90caabddf15b55e463bde98c8f3ce9651a8c8cdcdc626df1bbbb1b41d47414bc",
+   "size": 91565
+  },
+  "css/all.min.css": {
+   "sha512": "10ccbcc51fcf23b1831a0ba01439917b87fe830b1867d7beff46bdd98ab2276b",
+   "size": 236412
+  },
+  "css/fonts.css": {
+   "sha512": "9a5f37750e9bafcd2af7435ccb60a270fa3b1e93a1ad3188c2250f67c1ba19f5",
+   "size": 137912
+  },
+  "css/icons-light.css": {
+   "sha512": "2a95a6b28267526436bffffc8639a3ce032ec79a58564d4804d8a4fa0868b184",
+   "size": 52673
+  },
+  "css/ngnoid-light.css": {
+   "sha512": "7bc8eb663e40b0f77c5946e54796a7deb5220e18d9e1b07c6f20b696b891b034",
+   "size": 17633
+  },
+  "css/video-js.css": {
+   "sha512": "7ce31c651bf0a487c9c00ac5e6dabb42141afa03856b42d6c0792cc733bc2ab2",
+   "size": 49815
+  },
+  "data-default/users/content-default.json": {
+   "sha512": "5e561851672b4f5a4a09a21a5dc510b6606554e2be742f85a0a448281138d090",
+   "size": 858
+  },
+  "dbschema.json": {
+   "sha512": "907b238c298710b76b861fc18b52c43e69009009561dce1760e6b5d15f02f59b",
+   "size": 3493
+  },
+  "img/clock.svg": {
+   "sha512": "ceadfaaedbcc54a3c75a652ba47cf4e47dc4eb3ca66ff3a989c4f4901744fe1a",
+   "size": 697
+  },
+  "img/code.svg": {
+   "sha512": "a39442c64e8d936e583bb0a0765198cf100dc2394e1684c9f91c1122e44da993",
+   "size": 1008
+  },
+  "img/home.svg": {
+   "sha512": "3e8abd96f92a7d8e0852c30356ef1229646417d5964b1685cd38ef020daa9493",
+   "size": 1079
+  },
+  "img/media.svg": {
+   "sha512": "30c5b8cdee1aa9291aaf90a2a021ad3240f17cfde9d04c48121b76de95e58a80",
+   "size": 2145
+  },
+  "img/menu.png": {
+   "sha512": "f1a9ec18b271474e93adee6866c764b77cea0c336e80ded14d07a77f2a4d766d",
+   "size": 688
+  },
+  "img/peer.svg": {
+   "sha512": "0dcb1812058e04a7a9ebede83e59bab5e83e18564ddc23d1783df2505d891efa",
+   "size": 2652
+  },
+  "img/search.svg": {
+   "sha512": "08705725c074caeed1b12344459e99677aa9882f64e6039f6b9a203fd7ebffb3",
+   "size": 929
+  },
+  "img/upload-arrow-with-bar.svg": {
+   "sha512": "2d1d61406933879576da9253149fd3826db75b7186120fc2d123d9fb4a0f3701",
+   "size": 709
+  },
+  "img/user.svg": {
+   "sha512": "0f9d5ceb94f615f47c2103784d8d2066e9d5e16b04983dfe51a055c92d0e6c81",
+   "size": 1283
+  },
+  "img/user_comment.png": {
+   "sha512": "998a8f51a58ed0162c73171608b2a7626d4e047e5ec23b3f9632fd4ec0232e42",
+   "size": 20272
+  },
+  "img/video.svg": {
+   "sha512": "b459e325b39b31d7ce792546575b7e6803aaf86ae05e2b3d52354871ebf3c473",
+   "size": 1761
+  },
+  "img/video_empty.png": {
+   "sha512": "ffbdbbb7395f977af4e46ba4a58b03154fa8d5ed9775956919bff60401640b06",
+   "size": 165671
+  },
+  "index.html": {
+   "sha512": "103163f1cfe7ce66b71ebeba75fd26359b8501b7f3b0cc46f471dc755493e473",
+   "size": 1193
+  },
+  "js/all.1.min.js": {
+   "sha512": "a4bec603e2bd22c7b2244de4ceb47933850688515e7855ce6b6e5163e2f2b058",
+   "size": 821826
+  },
+  "js/all.js": {
+   "sha512": "19b821b8fdae9e4c65940632e39e6f4ec32833418670168a9aeb1e2194eedc3c",
+   "size": 136830
+  },
+  "js/all.min.js": {
+   "sha512": "7df1dfec1711e93931cbe3b266377029d7f26e8e7d868f2d9784234c67853795",
+   "size": 66772
+  },
+  "languages/da.json": {
+   "sha512": "121d4801e44eb153388a4a13f146143a9531741c40d3b3284c4bba1182b287a4",
+   "size": 564
+  },
+  "languages/de.json": {
+   "sha512": "c0fd5c11c447fe3850f274eb50cd18386478df45c3317f04a2230493d022c1c7",
+   "size": 624
+  },
+  "languages/es.json": {
+   "sha512": "44d6c42b767961904ea7c3c290cdfe4e0b47a13f7fe99de40381750ed69c9d6d",
+   "size": 627
+  },
+  "languages/fa.json": {
+   "sha512": "30194738624d408341050110e9036779b7c4ccfc7f4645948e74c2a07bd5452e",
+   "size": 783
+  },
+  "languages/fr.json": {
+   "sha512": "a338766e4e24174020623f9d68abdc9dc909d03885f373e0389f7e7ca38dc4ca",
+   "size": 636
+  },
+  "languages/hu.json": {
+   "sha512": "47d7bba28fbc03f8ea17952db3aa0e0826a67eed374cd9478896e26c7bb43a9f",
+   "size": 618
+  },
+  "languages/it.json": {
+   "sha512": "2a227a18c5754e77c4c8d8786900002a9a2dadd2d02b7154c397bc17084fb3a4",
+   "size": 595
+  },
+  "languages/jp.json": {
+   "sha512": "e6ea1e2a69b1c83ea6ef06863f4bd2a0feee126fa9441d3ca9bc9e857d626ff7",
+   "size": 692
+  },
+  "languages/kr.json": {
+   "sha512": "5ac842876a1a4eef318c5e5a29547457b4d0f26f07d765df5fbc8f2d01bfd7fd",
+   "size": 672
+  },
+  "languages/nl.json": {
+   "sha512": "b74442738f2bbb31bbbfc389f85cd68f4ea896f3f9004eeb0fd7692acadb7cb7",
+   "size": 600
+  },
+  "languages/pl.json": {
+   "sha512": "dfb49fba7db1dc3bc0de5b211f34756c015fbfe1c50a90d10f39169a9a8b33f1",
+   "size": 605
+  },
+  "languages/pt-br.json": {
+   "sha512": "1b42a11f40fba8f64e8300257cdc612fac3d824749fc2eaffe94eab6f219ac62",
+   "size": 652
+  },
+  "languages/pt.json": {
+   "sha512": "075da9975835ad588041aeadc76ccc8aea77cd0fef6ede124c5239c883dd27dd",
+   "size": 638
+  },
+  "languages/ru.json": {
+   "sha512": "5fee05369c10b1e4b6c6b8137ece9aa568b8d4f3f2732b9ecefcddf115c53da1",
+   "size": 810
+  },
+  "languages/sk.json": {
+   "sha512": "ca1a79d7a22a50be21e3baacaca26d7cccfa4c7fb257d0da692bfbd58f377bb2",
+   "size": 612
+  },
+  "languages/sl.json": {
+   "sha512": "4efa6e524cfa9329604d6fa5a001ec79c34f5aadae538284897e055c2605567a",
+   "size": 587
+  },
+  "languages/tr.json": {
+   "sha512": "2ccabe3a4867016d5e38baa458e6b0266b71cb9c4086d26c3e247d6257ce0607",
+   "size": 623
+  },
+  "languages/uk.json": {
+   "sha512": "618750c54b0d9bb2441e8e933ba33a8ecedb1c2d09d3780ef6797a9a310412f4",
+   "size": 778
+  },
+  "languages/zh-tw.json": {
+   "sha512": "2631e0a75937e35ce3e0be2685602f6cf27fc8a28d615eab91b7e632bfb92e32",
+   "size": 596
+  },
+  "languages/zh.json": {
+   "sha512": "247ee1144afc2ba2987999febd58cd2f67b02296308a1e264ea4374cc91e32fc",
+   "size": 590
+  },
+  "translations/language-codes.json": {
+   "sha512": "4a5adf9cbfc575cc2895d7f0c5679e88e42c709c3f1173fbfb6be9a06b3f8ff6",
+   "size": 155
+  },
+  "translations/strings-cs.json": {
+   "sha512": "e30a34dc8bb9e284c7abfa57efc35f19de8e1ed0e481f9336ca1688f413b0d6c",
+   "size": 10951
+  },
+  "translations/strings-emoji.json": {
+   "sha512": "ab18b859e031a8538461c7f5f82aad9734cd7f988eb6cad8cc0d943b155fb521",
+   "size": 9314
+  },
+  "translations/strings-en.json": {
+   "sha512": "d5d674cba126deffac5034b35f5970b795aa23669172e7d7e6d1d78597c685e7",
+   "size": 10720
+  },
+  "translations/strings-es.json": {
+   "sha512": "e8ac67f1e17ca6e2425d1c431ffc0c4c51016c09b8bc0963dd4311ab6b71391d",
+   "size": 13083
+  },
+  "translations/strings-fa.json": {
+   "sha512": "f15ef6beb5d8ef52d7413392e0b3944935a47c18d01459c24976184be363223c",
+   "size": 17775
+  },
+  "translations/strings-it.json": {
+   "sha512": "f7a8c43795f4ff99a56abd7f49a1ef481de69ee2fa6720d3711b06b72a6d9ce5",
+   "size": 12337
+  },
+  "translations/strings-zh.json": {
+   "sha512": "ac040743d6d4b6ad3d2c472c9cbb0fc96d1f8578dc9a28ba5ffe343463a161d4",
+   "size": 10963
+  }
+ },
+ "ignore": "(data/users/.*db|data/users/.*/.*|.*.py)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "modified": 1689996444,
+ "postmessage_nonce_security": true,
+ "settings": {
+  "admin": "quantumkitty",
+  "admin_href": "http://127.0.0.1:43110/Mail.ZeroNetwork.bit/?to=quantumkitty",
+  "anon_accounts": ["ngnuityanon01@zeroid.bit"]
+ },
+ "signers_sign": "HM20HdtiDWVukJaT/WbnGuXvYIAbYIjOpSpJFCMFHzEgHNgvhwx09TKA15DuS65AwKiBAhBVnPPNFkOaMLjN9Tc=",
+ "signs": {"17Ayo82FwgH2cL7HuFKNT8tdFfBSVLbPVR": "GxDxguRKxIG3wFYSW+1H9OgVDMLKMQ8TgDiP3kHoMh9hXTCqYfPNLwQnBtqe/yuGhZHh2uoxhK+Byyu/XwMJWIg="},
+ "signs_required": 1,
+ "title": "P2P Video Share",
+ "translate": ["index.html","js/all.js"],
+ "viewport": "width=device-width, initial-scale=0.8",
+ "zeronet_version": "19.7.23"
+}
